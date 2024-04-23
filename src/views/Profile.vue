@@ -18,7 +18,7 @@
 						<a-avatar :size="74" shape="square" src="images/face-1.jpg" />
 						<div class="avatar-info">
 							<h4 class="font-semibold m-0">Sarah Jacob</h4>
-							<p>CEO / Co-Founders</p>
+							<p>CEO / Co-Founder</p>
 						</div>
 					</a-col>
 					<a-col :span="24" :md="12" style="display: flex; align-items: center; justify-content: flex-end">
